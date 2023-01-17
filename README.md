@@ -1,29 +1,53 @@
-# hora-de-codar-vue
+<h1 align="center"> Hamburgeria - Vue.js [Hora de Codar]</h1>
 
-This template should help get you started developing with Vue 3 in Vite.
+<p align="center">
+  Projeto de CRUD para criar e gerenciar pedidos de uma burgeria online, com base no curso do Mateus Batisti, do site Hora de Codar.
+</p>
 
-## Recommended IDE Setup
+<br>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<p align="center">
+  <img alt="Burgeria" src=".github/burgeria.png" width="100%">
+</p>
 
-## Customize configuration
+## 🚀 Tecnologias
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Project Setup
+- [Vue.js](https://vuejs.org/)
+- [Vite](https://vitejs.dev/config/)
+- [Json Server](https://www.npmjs.com/package/json-server)
 
-```sh
+## 💻 Projeto
+
+O projeto simula um crud simples de pedidos com as funções gerar o pedido, atualizar status e cancelar o pedido.
+
+<h1 align="center"> Setup Fron-end & Back-end</h1>
+
+## 🔥 Front-end
+
+Instale as dependências do projeto:
+
+```
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+Rode a aplicação:
 
-```sh
+```
 npm run dev
 ```
 
-### Compile and Minify for Production
+e
 
-```sh
-npm run build
 ```
+npm run back
+```
+
+<br /><br /><br />
+
+<h4 align="center">
+ <img alt="Ubuntu Linux" src=".github/ubuntu_icon.svg" width="32px">
+  <br />
+  Feito com ♥ no Ubuntu 22.04 LTS
+</h1>
