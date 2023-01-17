@@ -82,28 +82,25 @@
       "nome": "Reinaldo",
       "carne": "Maminha",
       "pao": "Italiano Branco",
-      "opcionanis": [],
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Tomate"
+      ],
       "status": "Solicitado",
       "id": 1
     },
     {
-      "nome": "Joaqim",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
       "nome": "Maria",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
+      "carne": "Veggie burger",
+      "pao": "Integral",
       "opcionais": [
-        "Bacon",
-        "Cheddar"
+        "Tomate",
+        "Pepino",
+        "Cebola roxa"
       ],
       "status": "Solicitado",
-      "id": 3
+      "id": 2
     }
   ]
 }
